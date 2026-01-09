@@ -7,14 +7,16 @@ Universidad de Las Américas (UDLA)
 
 Este repositorio contiene el desarrollo de las actividades y el proyecto final de la asignatura **Machine Learning II**, correspondiente al programa del Magíster en Data Science de la Universidad de Las Américas (UDLA).
 
-La asignatura profundiza en **modelos de clasificación supervisada**, abordando tanto enfoques lineales como no lineales, con énfasis en:
+La asignatura profundiza en **modelos de clasificación supervisada**, abordando enfoques lineales y no lineales aplicados a problemas reales, con énfasis en:
+
 - Preprocesamiento adecuado de datos
 - Selección y ajuste de modelos
 - Validación cruzada
 - Evaluación rigurosa mediante métricas apropiadas
 - Comparación crítica entre distintos algoritmos
+- Interpretabilidad y uso responsable de modelos
 
-Las actividades están estructuradas de manera progresiva, incorporando distintos paradigmas de aprendizaje automático y promoviendo el análisis crítico de supuestos, desempeño e interpretabilidad.
+Las actividades están estructuradas de manera progresiva, incorporando distintos paradigmas de aprendizaje automático y promoviendo el análisis crítico del desempeño, los supuestos y la aplicabilidad de los modelos en contextos reales.
 
 ---
 
@@ -23,7 +25,7 @@ Las actividades están estructuradas de manera progresiva, incorporando distinto
 ```text
 MACHINE-LEARNING-II/
 │
-├── README.md                 # Descripción general del repositorio (este archivo)
+├── README.md                 # Descripción general del repositorio
 │
 ├── actividad_1/
 │   ├── notebooks/
@@ -47,9 +49,3 @@ MACHINE-LEARNING-II/
     ├── data/
     └── README.md
 
-
-## Curso
-
-**Machine Learning II**  
-Magíster en Data Science – UDLA  
-Año 2026
