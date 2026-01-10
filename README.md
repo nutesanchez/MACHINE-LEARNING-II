@@ -25,17 +25,17 @@ Las actividades están estructuradas de manera progresiva, incorporando distinto
 ```text
 MACHINE-LEARNING-II/
 │
-├── README.md                 # Descripción general del repositorio
+├── README.md                 
 │
 ├── actividad_1/
 │   ├── Actividad_1.ipynb
 │   ├── README.md
-│   └── data/                 # Datos utilizados en la actividad 1
+│   └── data/                
 │
 ├── actividad_2/
 │   ├── Actividad_2.ipynb
 │   ├── README.md
-│   └── src/                  # Funciones auxiliares (cuando aplica)
+│   └── src/                 
 │
 ├── actividad_3/
 │   ├── Actividad_3.ipynb
