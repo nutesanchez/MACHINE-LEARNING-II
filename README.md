@@ -28,24 +28,23 @@ MACHINE-LEARNING-II/
 ├── README.md                 # Descripción general del repositorio
 │
 ├── actividad_1/
-│   ├── notebooks/
-│   ├── data/
-│   └── README.md
+│   ├── Actividad_1.ipynb
+│   ├── README.md
+│   └── data/                 # Datos utilizados en la actividad 1
 │
 ├── actividad_2/
-│   ├── notebooks/
-│   ├── data/
-│   ├── src/
-│   └── README.md
+│   ├── Actividad_2.ipynb
+│   ├── README.md
+│   └── src/                  # Funciones auxiliares (cuando aplica)
 │
 ├── actividad_3/
-│   ├── notebooks/
-│   ├── data/
-│   ├── src/
-│   └── README.md
+│   ├── Actividad_3.ipynb
+│   ├── README.md
+│   └── data_model_pvc_quellon_2024_fin.xlsx
 │
-└── proyecto_final/
-    ├── notebooks/
-    ├── data/
-    └── README.md
+└── Proyecto_final/
+    ├── Proyecto_final.ipynb
+    ├── README.md
+    └── data/
+
 
