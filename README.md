@@ -34,26 +34,32 @@ la salud.
 ```text
 MACHINE-LEARNING-II/
 │
-├── README.md                 
+├── README.md                  ← README raíz del repositorio
 │
 ├── actividad_1/
 │   ├── Actividad_1.ipynb
 │   ├── README.md
-│   └── data/                
+│   └── data/
 │
 ├── actividad_2/
 │   ├── Actividad_2.ipynb
 │   ├── README.md
-│   └── src/                 
+│   └── src/
 │
 ├── actividad_3/
 │   ├── Actividad_3.ipynb
 │   ├── README.md
 │   └── data_model_pvc_quellon_2024_fin.xlsx
 │
-└── Proyecto_final/
+├── actividad_4/
+│   ├──  Actividad_4.ipynb
+│   ├──  README.md           
+│   └── data_model_pvc_quellon_2024_fin.xlsx
+│ 
+└── proyecto_final/
     ├── Proyecto_final.ipynb
     ├── README.md
     └── data/
+
 
 
